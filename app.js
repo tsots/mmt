@@ -75,4 +75,4 @@ app.get('/resources', function (req, res) {
 });
 app.get('/contact', (req, res) => res.render('contact', {page:'contact', contact:true}))
 
-app.listen(process.env.PORT || 3005);
+app.listen(process.env.PORT || 3000);
