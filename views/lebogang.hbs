@@ -1,0 +1,26 @@
+<section class="section section-lintle">
+  {{# each lebo}}
+  <div class="row">
+    <div class="col m10 l8 push-l2 push-m1">
+          <div class="col m10 l6 push-m1">
+            <img style="height:20rem;" class="responsive-img" src="{{picture}}" alt="">
+          </div>
+          <div class="col m10 l6 push-m1">
+            <h4 style="margin-top:0;">{{firstName}} {{lastName}}</h4>
+            <h6>{{title}}</h6>
+            <p>{{bio}}</p>
+            <a href="/contact" class="btn">Contact us</a>
+          </div>
+        </div>
+  </div>
+  <div class="row">
+    <div class="col m10 l8 push-l2 push-m1">
+      {{#portfolio}}
+        <ul style="display:inline-block; margin:.5rem 1rem;">
+          <li><i class="material-icons">check</i>{{this}}</li>
+        </ul>
+      {{/portfolio}}
+    </div>
+  </div>
+  {{/each}}
+</section>

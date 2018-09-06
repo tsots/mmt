@@ -1,0 +1,12 @@
+{
+  "lintle" : [{
+      "ID" : "1",
+      "firstName" : "Lintle",
+      "lastName" : "Modise",
+      "title" : "(Director, Chairwoman)",
+      "portfolio" : ["Corporate Litigation / arbitration;", "Vetting & Drafting of Commercial Contracts;" , "Liquidation, Insolvency & Business Rescue;" , "Corporate restructuring;" , "Corporate & Forensic Due Diligence;" , "Finance; and" , "Regulatory Compliance."],
+      "picture" : "/img/profiles/dee.jpeg",
+      "bio" : "Lintle is a seasoned attorney and Chairwoman of the firm. She is an Attorney of the High Court of South Africa and holds an LLB degree from the University of Pretoria as well as an LLM from the University of Cape Town. She has a keen interest in cross-border transactions and specializes in the following fields:-"
+    }
+  ]
+}

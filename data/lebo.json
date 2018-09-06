@@ -1,0 +1,12 @@
+{
+  "lebo" : [{
+        "ID" : "3",
+        "firstName" : "Lebogang",
+        "lastName" : "Matlou",
+        "title" : "(Director)",
+        "portfolio" : ["Banking law;", "Telecommunications law;" , "Sports law;" , "ICT;" , "Drafting and vetting of commercial contracts;" , "General litigation;" , "Regulatory; and" , "Finance;"],
+        "picture" : "/img/profiles/lebo.jpeg",
+        "bio" : "Lebo is an Attorney of the High Court of South Africa. He completed his Articles with McRoberts Attorneys before joining the corporate world working at great institutions such a Telkom and the South African Reserve Bank. He holds an LLB from the University of South Africa with a number of other post-graduate certificates and diplomas. He specializes in the following fields:-"
+    }
+  ]
+}

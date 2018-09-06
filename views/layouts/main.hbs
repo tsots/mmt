@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Suck me</title>
+  <link rel="stylesheet" href="/dist/css/base.css">
+  <link rel="stylesheet" href="/dist/fonts/webfonts/css/all.css">
+  <link rel="stylesheet" href="/dist/fonts/iconfont/material-icons.css">
+</head>
+<body class="{{page}}">
+  {{> top-navigation}}
+  {{{body}}}
+
+   <script src="/dist/js/jquery/jquery.js"></script>
+    <script src="/dist/js/bin/materialize.js"></script>
+    <script>
+  $(document).ready(function(){
+    $('.sidenav').sidenav();
+    $('.carousel').carousel();
+    $('.carousel.carousel-slider').carousel({indicators: true, numVisible: 1});
+    $('.slider').slider({height:200});
+    $('.slides').slider({height:180});
+  });
+  </script>
+</body>
+</html>

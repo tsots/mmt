@@ -1,0 +1,12 @@
+{
+  "motsosi" : [{
+    "ID" : "4",
+    "firstName" : "Motsosi",
+    "lastName" : "Thipe",
+    "title" : "(Director)",
+    "portfolio" : ["Supply chain management/procurement;", "General litigation;" , "Drafting and vetting of commercial contracts (with emphasis on IT contracts);" , "Competition law;" , "Sports law;" , "Labour;" , "Gaming; and" , "Outsourcing."],
+    "picture" : "/img/profiles/motsosi.jpeg",
+    "bio" : "Motsosi is an Attorney of the High Court and holds an LLB degree from North-West University. He commenced his legal career with the Competition Commission, Legal Resources Centre and ultimately completed his articles with Spoor & Fisher Attorneys. He has vast legal and corporate experience from his time at key institutions such as Telkom and the South African Revenue Services (SARS). He specializes in the following fields:-"
+    }
+  ]
+}

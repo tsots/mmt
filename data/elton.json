@@ -1,0 +1,12 @@
+{
+  "elton" : [{
+      "ID" : "2",
+      "firstName" : "Elton",
+      "lastName" : "De Bruin",
+      "title" : "(Director, Managing Partner)",
+      "portfolio" : ["Corporate & commercial litigation/arbitration;", "Drafting & vetting of commercial contracts;" , "Local and Cross-border legal due diligence;" , "Mergers & Acquisitions;" , "Corporate restructuring;" , "Draft of company policies and directives;" , "Corporate finance;" , "Sports arbitration;" , "Labour" , "Mining", "Immigration; and" , "Corporate governance"],
+      "picture" : "/img/profiles/elton.jpeg",
+      "bio" : "Elton is a seasoned corporate and commercial lawyer and Managing Partner of the firm. He is an Attorney of the High Court of South Africa and holds an LLB degree from the University of Western Cape and an LLM degree from University of Pretoria coupled with a number of post-graduate diplomas and certificates from various esteemed institutions. He has also published articles in a number of legal publications (Without Prejudice (locally), InBrief (internationally)). He has extensive practice and corporate experience in telecommunications, mergers and acquisitions, sports, labour and various regulatory environments. He specializes in the following fields:-"
+    }
+  ]
+}
